@@ -9,4 +9,5 @@
 .module {
     width: 33.33333%;
     position: relative;
+    overflow: hidden;
 }
