@@ -1,0 +1,12 @@
+@import url(__center/module__center.css);
+@import url(__right/module__right.css);
+@import url(__right-link/module__right-link.css);
+@import url(__right-link-arrow/module__right-link-arrow.css);
+@import url(__center-title/module__center-title.css);
+@import url(__center-subtitle/module__center-subtitle.css);
+@import url(__center-animation/module__center-animation.css);
+
+.module {
+    width: 33.33333%;
+    position: relative;
+}

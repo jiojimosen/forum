@@ -1,1 +1,7 @@
-@import url(./blocks/wrapper/wrapper.css)
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&display=swap');
+
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/wrapper/wrapper.css);
+@import url(../blocks/module/module.css);
+@import url(../blocks/rotation/rotation.css);
